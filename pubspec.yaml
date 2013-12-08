@@ -1,0 +1,4 @@
+name: dp_diff_001__reverse_num_guesser
+description: A sample command-line application
+#dependencies:
+#  unittest: any
